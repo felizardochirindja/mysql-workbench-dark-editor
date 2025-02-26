@@ -2,13 +2,9 @@
 
 #### Install using Git
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
+Install the theme and keep up to date by cloning the repo:
 
-    git clone https://github.com/dracula/mysql-workbench.git
-
-#### Install manually
-
-Download using the [GitHub .zip download](https://github.com/dracula/mysql-workbench/archive/master.zip) option and unzip them.
+    git clone https://github.com/felizardochirindja/mysql-workbench-dark-editor.git
 
 #### Activating theme
 
